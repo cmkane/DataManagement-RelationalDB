@@ -1,6 +1,5 @@
-Data Management - Relational DB in C++
+//Data Management - Relational DB in C++
 ===============================================
-# Project for UCI course CS 222 Data Management
 
 Implementation of a relational database in C++. 
 There are several components including:

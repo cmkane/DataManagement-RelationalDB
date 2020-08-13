@@ -1,0 +1,6 @@
+
+    if(DEBUG){
+        std::cout << "The amount of the free space in page " << rid.pageNum << " is : " << pageInfo.freeSpace << std::endl;
+        std::cout << "The amount of the records in page " << rid.pageNum << " is    : " << pageInfo.numRecords << std::endl;
+
+    }

@@ -1,0 +1,12 @@
+
+***** In RBF Test Case 08 *****
+fileName is test8
+File test8 has been created properly.
+
+Counter Values when opening test8 are: "0 0 0"
+
+Inserting Data:
+Number of attributes in record: 4
+The number of bytes containing null info = 1
+EmpName: AnteaterAge: 25      Height: 177.8   Salary: 6200    
+The data is: 
